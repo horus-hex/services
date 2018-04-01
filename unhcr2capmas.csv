@@ -1,306 +1,322 @@
-"CoA_LocationLevel1ID","CoA_LocationLevel2ID","CoA_L1","CoA_L2","Gov_Code","Sec_Code","ambiguous"
-"NULL","NULL","NULL","NULL",NA,NA,"TRUE"
-"NULL","ARE021002","NULL","Al Agouzah",21,"2102","FALSE"
-"ARE001","NULL","Cairo","NULL",1,NA,"TRUE"
-"ARE001","ARE001006","Cairo","Old Cairo",1,"109","FALSE"
-"ARE001","ARE001007","Cairo","Al Sayyida Zainab",1,"110","FALSE"
-"ARE001","ARE001008","Cairo","Al Khalifa",1,"111","FALSE"
-"ARE001","ARE001009","Cairo","Abdeen",1,"116","FALSE"
-"ARE001","ARE001010","Cairo","Al Moski",1,"115","FALSE"
-"ARE001","ARE001011","Cairo","Qasr Al-nil",1,"117","FALSE"
-"ARE001","ARE001012","Cairo","Bulaq",1,"119","FALSE"
-"ARE001","ARE001013","Cairo","Al Azbakkiya",1,"120","FALSE"
-"ARE001","ARE001014","Cairo","Al Darb Al Ahmar",1,"114","FALSE"
-"ARE001","ARE001015","Cairo","Al Gammaliya",1,"122","FALSE"
-"ARE001","ARE001016","Cairo","Bab Ash Shariyah",1,"121","FALSE"
-"ARE001","ARE001017","Cairo","Al Zahir",1,"123","FALSE"
-"ARE001","ARE001018","Cairo","Al Sharabeya",1,"126","FALSE"
-"ARE001","ARE001019","Cairo","Shubra",1,"127","FALSE"
-"ARE001","ARE001020","Cairo","Rod El Farag",1,"128","FALSE"
-"ARE001","ARE001021","Cairo","Al Sahel",1,"129","FALSE"
-"ARE001","ARE001022","Cairo","Al Wayli",1,"124","FALSE"
-"ARE001","ARE001023","Cairo","Hadayk Al Koba",1,"125","FALSE"
-"ARE001","ARE001024","Cairo","Al Zayton",1,"132","FALSE"
-"ARE001","ARE001025","Cairo","Al Mataria",1,"133","FALSE"
-"ARE001","ARE001026","Cairo","East Nacr City",1,"141","FALSE"
-"ARE001","ARE001027","Cairo","West Nacr City",1,"140","FALSE"
-"ARE001","ARE001028","Cairo","Heliopolis",1,"139","FALSE"
-"ARE001","ARE001029","Cairo","Al Nuzha",1,"138","FALSE"
-"ARE001","ARE001030","Cairo","Ain Shams",1,"134","FALSE"
-"ARE001","ARE001031","Cairo","Al Zawyah Elhamra",1,"130","FALSE"
-"ARE001","ARE001032","Cairo","Al Salam",1,"136|137","TRUE"
-"ARE001","ARE001033","Cairo","Al Zamalek",1,"118","FALSE"
-"ARE001","ARE001034","Cairo","Manshiet Nasser",1,"113","FALSE"
-"ARE001","ARE001035","Cairo","Al Bassatin",1,"107","FALSE"
-"ARE001","ARE001036","Cairo","Al Marg",1,"135","FALSE"
-"ARE001","ARE001037","Cairo","Helwan",1,"102","FALSE"
-"ARE001","ARE001038","Cairo","Maadi",1,"106","FALSE"
-"ARE001","ARE021016","Cairo","South Giza",1,NA,"TRUE"
-"ARE002","NULL","Alexandria","NULL",2,NA,"TRUE"
-"ARE002","ARE002001","Alexandria","Al Montazah",2,"201|202","TRUE"
-"ARE002","ARE002002","Alexandria","Al Gomrok",2,"212","FALSE"
-"ARE002","ARE002003","Alexandria","El Laban",2,"210","FALSE"
-"ARE002","ARE002004","Alexandria","Amreya",2,"216|217","TRUE"
-"ARE002","ARE002005","Alexandria","Attarin",2,"207","FALSE"
-"ARE002","ARE002006","Alexandria","Bab Sharky",2,"206","FALSE"
-"ARE002","ARE002007","Alexandria","Borg El Arab",2,"218|219","TRUE"
-"ARE002","ARE002008","Alexandria","Karmoz",2,"209","FALSE"
-"ARE002","ARE002009","Alexandria","Mansheya",2,"211","FALSE"
-"ARE002","ARE002010","Alexandria","Minet El Bassal",2,"214","FALSE"
-"ARE002","ARE002011","Alexandria","Moharram Beyk",2,"208","FALSE"
-"ARE002","ARE002012","Alexandria","Raml",2,"203|204","TRUE"
-"ARE002","ARE002013","Alexandria","Sidi Gaber",2,"205","FALSE"
-"ARE003","NULL","Port-said","NULL",3,NA,"TRUE"
-"ARE003","ARE003001","Port-said","Al Arab",3,"302","FALSE"
-"ARE003","ARE003002","Port-said","Al Dawahy",3,"304","FALSE"
-"ARE003","ARE003003","Port-said","Al Manakh",3,"303","FALSE"
-"ARE003","ARE003005","Port-said","East Portsaid",3,"301","FALSE"
-"ARE003","ARE003006","Port-said","Mubark",3,"311","FALSE"
-"ARE003","ARE003007","Port-said","Port Fouad",3,"309|310","TRUE"
-"ARE003","ARE003008","Port-said","Port Said Port",3,"312","FALSE"
-"ARE003","ARE003009","Port-said","South Portsaid",3,"307|308","TRUE"
-"ARE003","ARE003010","Port-said","Zohour",3,"305","FALSE"
-"ARE004","NULL","Suez","NULL",4,NA,"TRUE"
-"ARE004","ARE004001","Suez","Al Rbaaan",4,"402","FALSE"
-"ARE004","ARE004002","Suez","Al Ganayen",4,"405","FALSE"
-"ARE004","ARE004004","Suez","Faisal",4,"404","FALSE"
-"ARE004","ARE004005","Suez","Suez",4,"401","FALSE"
-"ARE004","ARE004006","Suez","Suez Port",4,"406","FALSE"
-"ARE005","NULL","Helwan","NULL",1,NA,"TRUE"
-"ARE005","ARE005001","Helwan","Al Tibbin",1,"101","FALSE"
-"ARE005","ARE005002","Helwan","Helwan",1,"102","FALSE"
-"ARE005","ARE005003","Helwan","15th Of May",1,"104","FALSE"
-"ARE005","ARE005004","Helwan","Maadi",1,"106","FALSE"
-"ARE005","ARE005005","Helwan","Turra",1,"105","FALSE"
-"ARE005","ARE005006","Helwan","New Cairo (1)",1,"143","FALSE"
-"ARE005","ARE005007","Helwan","New Cairo (2)",1,"144","FALSE"
-"ARE005","ARE005008","Helwan","New Cairo (3)",1,"145","FALSE"
-"ARE005","ARE005009","Helwan","El-sherouk",1,"145","FALSE"
-"ARE005","ARE005010","Helwan","Badr City",1,"146","FALSE"
-"ARE006","NULL","6th October","NULL",2,NA,"TRUE"
-"ARE006","ARE006001","6th October","6th October (1)",2,"2120","FALSE"
-"ARE006","ARE006002","6th October","6th October (2)",2,"2121","FALSE"
-"ARE006","ARE006003","6th October","Sheikh Zaid",2,"2119","FALSE"
-"ARE006","ARE006004","6th October","Al Hawamidiyya",2,"2110","FALSE"
-"ARE006","ARE006005","6th October","El Wahaat Elbaharia",2,"2122","FALSE"
-"ARE006","ARE006006","6th October","Abu Elnumros",2,"2109","FALSE"
-"ARE006","ARE006007","6th October","El Badrasheen",2,"2111","FALSE"
-"ARE006","ARE006008","6th October","Al Ayaat",2,"2112","FALSE"
-"ARE006","ARE006009","6th October","Mansheat Alqanater",2,"2118","FALSE"
-"ARE006","ARE006011","6th October","Kerdasa",2,"2115","FALSE"
-"ARE011","NULL","Damietta","NULL",11,NA,"TRUE"
-"ARE011","ARE011001","Damietta","Al Rawda",11,NA,"TRUE"
-"ARE011","ARE011002","Damietta","Al Zarqa",11,"1105","FALSE"
-"ARE011","ARE011003","Damietta","El Sroo",11,NA,"TRUE"
-"ARE011","ARE011004","Damietta","Fareskour",11,"1104","FALSE"
-"ARE011","ARE011005","Damietta","Izbet Elbarj",11,NA,"TRUE"
-"ARE011","ARE011006","Damietta","Kafr Batikh",11,"1107","FALSE"
-"ARE011","ARE011007","Damietta","Kafr Saad",11,"1106","FALSE"
-"ARE011","ARE011008","Damietta","Meet Abou Ghaleb",11,NA,"TRUE"
-"ARE011","ARE011009","Damietta","New Damietta",11,"1108","FALSE"
-"ARE011","ARE011010","Damietta","Ras El Bar",11,"1110","FALSE"
-"ARE012","NULL","Dakahliya","NULL",12,NA,"TRUE"
-"ARE012","ARE012001","Dakahliya","Aga",12,"1204","FALSE"
-"ARE012","ARE012002","Dakahliya","Al Gamaleya",12,"1215","FALSE"
-"ARE012","ARE012003","Dakahliya","Al Kordi",12,"1213","FALSE"
-"ARE012","ARE012004","Dakahliya","Al Mansoura",12,"1201|1202","TRUE"
-"ARE012","ARE012005","Dakahliya","Al Manzala",12,"1216","FALSE"
-"ARE012","ARE012006","Dakahliya","Al Matareya",12,"1217","FALSE"
-"ARE012","ARE012007","Dakahliya","Al Sinbillawain",12,"1207","FALSE"
-"ARE012","ARE012008","Dakahliya","Bani Obeid",12,"1209","FALSE"
-"ARE012","ARE012010","Dakahliya","Dikirnis",12,"1211","FALSE"
-"ARE012","ARE012011","Dakahliya","Gamasa",12,"1219","FALSE"
-"ARE012","ARE012012","Dakahliya","Meniat El Nasr",12,"1212","FALSE"
-"ARE012","ARE012013","Dakahliya","Mit Ghamr",12,"1205|1206","TRUE"
-"ARE012","ARE012014","Dakahliya","Mitt Slsell",12,"1214","FALSE"
-"ARE012","ARE012015","Dakahliya","Sherbin",12,"1218","FALSE"
-"ARE012","ARE012016","Dakahliya","Talkha",12,"1220","FALSE"
-"ARE012","ARE012017","Dakahliya","Tammy Alamded",12,"1208","FALSE"
-"ARE013","NULL","Sharkia","NULL",13,NA,"TRUE"
-"ARE013","ARE013001","Sharkia","Abu Kabir",13,"1314","FALSE"
-"ARE013","ARE013002","Sharkia","Abouhmadd",13,"1310","FALSE"
-"ARE013","ARE013003","Sharkia"," al Qanayat",13,"1304","FALSE"
-"ARE013","ARE013004","Sharkia","Al Husseiniya",13,"1319","FALSE"
-"ARE013","ARE013005","Sharkia","Al Ibrahimeya",13,"1313","FALSE"
-"ARE013","ARE013006","Sharkia","Al Qareen",13,"1322","FALSE"
-"ARE013","ARE013007","Sharkia","Al Zagazig",13,"1301|1302|1303","TRUE"
-"ARE013","ARE013008","Sharkia","Awlad Saqr",13,"1316","FALSE"
-"ARE013","ARE013009","Sharkia","Belbais",13,"1307","FALSE"
-"ARE013","ARE013010","Sharkia","Derb Negm",13,"1312","FALSE"
-"ARE013","ARE013011","Sharkia","Faqous",13,"1320|1321","TRUE"
-"ARE013","ARE013012","Sharkia","Hehia",13,"1311","FALSE"
-"ARE013","ARE013013","Sharkia","Kafr Saqr",13,"1315","FALSE"
-"ARE013","ARE013014","Sharkia","Mashtool Alswouq",13,"1306","FALSE"
-"ARE013","ARE013015","Sharkia","Minya Aalghemhh",13,"1305","FALSE"
-"ARE014","NULL","Qalyubia","NULL",14,NA,"TRUE"
-"ARE014","ARE014001","Qalyubia","Al Obour",14,"1416","FALSE"
-"ARE014","ARE014002","Qalyubia","Al Qanatir Al -khayriyyah",14,"1407","FALSE"
-"ARE014","ARE014003","Qalyubia","Alkhankah",14,"1414|1415","TRUE"
-"ARE014","ARE014004","Qalyubia","Banha",14,"1403","FALSE"
-"ARE014","ARE014005","Qalyubia","Kafr Shokr",14,"1404","FALSE"
-"ARE014","ARE014006","Qalyubia","Shubra Al Kaymah",14,"1410|1411","TRUE"
-"ARE014","ARE014007","Qalyubia","Qaha",14,"1406","FALSE"
-"ARE014","ARE014008","Qalyubia","Qalyub",14,"1408|1409","TRUE"
-"ARE014","ARE014009","Qalyubia","Shibin Al-qanater",14,"1413","FALSE"
-"ARE014","ARE014010","Qalyubia","Toukh",14,"1405","FALSE"
-"ARE015","NULL","Kafr El Shiekh","NULL",15,NA,"TRUE"
-"ARE015","ARE015001","Kafr El Shiekh","Al Hamoul",15,"1505","FALSE"
-"ARE015","ARE015002","Kafr El Shiekh","Alreyad",15,"1504","FALSE"
-"ARE015","ARE015003","Kafr El Shiekh","Baltim",15,NA,"TRUE"
-"ARE015","ARE015004","Kafr El Shiekh","Bella",15,"1506|1507","TRUE"
-"ARE015","ARE015005","Kafr El Shiekh","Desouk",15,"1513","FALSE"
-"ARE015","ARE015006","Kafr El Shiekh","Fouh",15,"1510","FALSE"
-"ARE015","ARE015007","Kafr El Shiekh","Kafr El Sheikh",15,"1501|1502|1503","TRUE"
-"ARE015","ARE015008","Kafr El Shiekh","Motobas",15,"1509","FALSE"
-"ARE015","ARE015010","Kafr El Shiekh","Sidi Salem",15,"1511","FALSE"
-"ARE016","NULL","Gharbeya","NULL",16,NA,"TRUE"
-"ARE016","ARE016001","Gharbeya","Al Mahala Al Kobra",16,"1607|1608|1609|1610","TRUE"
-"ARE016","ARE016002","Gharbeya","Alsanta",16,"1604","FALSE"
-"ARE016","ARE016003","Gharbeya","Basyoun",16,"1612","FALSE"
-"ARE016","ARE016004","Gharbeya","Kafr Alzayat",16,"1613","FALSE"
-"ARE016","ARE016005","Gharbeya","Qotour",16,"1611","FALSE"
-"ARE016","ARE016006","Gharbeya","Samanoud",16,"1606","FALSE"
-"ARE016","ARE016007","Gharbeya","Tanta",16,"1601|1602|1603","TRUE"
-"ARE016","ARE016008","Gharbeya","Zefta",16,"1605","FALSE"
-"ARE017","NULL","Monofiya","NULL",17,NA,"TRUE"
-"ARE017","ARE017001","Monofiya","Al Shohadaa",17,"1703","FALSE"
-"ARE017","ARE017002","Monofiya","Albagour",17,"1707","FALSE"
-"ARE017","ARE017003","Monofiya","Alsadat",17,"1712","FALSE"
-"ARE017","ARE017004","Monofiya","Ashmoun",17,"1708","FALSE"
-"ARE017","ARE017005","Monofiya","Berket Alsabaa",17,"1705","FALSE"
-"ARE017","ARE017007","Monofiya","Menouf",17,"1711","FALSE"
-"ARE017","ARE017008","Monofiya","Quesna",17,"1706","FALSE"
-"ARE017","ARE017009","Monofiya","Sers Alayyan",17,"1709","FALSE"
-"ARE017","ARE017010","Monofiya","Shebin El Koum",17,"1701|1702","TRUE"
-"ARE017","ARE017011","Monofiya","Tala",17,"1704","FALSE"
-"ARE018","NULL","El-beheira","NULL",18,NA,"TRUE"
-"ARE018","ARE018001","El-beheira","Abouhoms",18,"1809","FALSE"
-"ARE018","ARE018002","El-beheira","Abualmatamir",18,"1804","FALSE"
-"ARE018","ARE018003","El-beheira","Aldelengat",18,"1816","FALSE"
-"ARE018","ARE018004","El-beheira","Almahmudiya",18,"1810","FALSE"
-"ARE018","ARE018005","El-beheira","Alrahmaniah",18,"1811","FALSE"
-"ARE018","ARE018006","El-beheira","Badr",18,"1815","FALSE"
-"ARE018","ARE018007","El-beheira","Damanhur",18,"1801|1802","TRUE"
-"ARE018","ARE018008","El-beheira","Edco",18,"1807","FALSE"
-"ARE018","ARE018009","El-beheira","Housh Eissa",18,"1803","FALSE"
-"ARE018","ARE018010","El-beheira","Itai Albarood",18,"1813","FALSE"
-"ARE018","ARE018011","El-beheira","Kafr El Dawar",18,"1805|1806","TRUE"
-"ARE018","ARE018012","El-beheira","Kom Hamada",18,"1814","FALSE"
-"ARE018","ARE018013","El-beheira","Rasheed",18,"1808","FALSE"
-"ARE018","ARE018014","El-beheira","Shoubrakhit",18,"1812","FALSE"
-"ARE018","ARE018015","El-beheira","Wadi Alnatrun",18,"1817","FALSE"
-"ARE019","NULL","Ismailia","NULL",19,NA,"TRUE"
-"ARE019","ARE019001","Ismailia","Al Ismailia",19,"1901|1902|1903|1904","TRUE"
-"ARE019","ARE019002","Ismailia","Abo Sweer Al Mahata",19,"1908","FALSE"
-"ARE019","ARE019004","Ismailia","El Qantara Gharb",19,"1905","FALSE"
-"ARE019","ARE019005","Ismailia","El Qantara Shark",19,"1906","FALSE"
-"ARE019","ARE019006","Ismailia","Fayed",19,"1907","FALSE"
-"ARE019","ARE019007","Ismailia","New Alkasaseen",19,"1910","FALSE"
-"ARE021","NULL","Giza","NULL",2,NA,"TRUE"
-"ARE021","ARE021001","Giza","Imbaba",2,"2101","FALSE"
-"ARE021","ARE021002","Giza","Al Agouzah",2,"2102","FALSE"
-"ARE021","ARE021003","Giza","Al Dukki",2,"2103","FALSE"
-"ARE021","ARE021004","Giza","North Giza",2,"2104","FALSE"
-"ARE021","ARE021005","Giza","Bulaq Al Daqrur",2,"2105","FALSE"
-"ARE021","ARE021006","Giza","Al Haram",2,"2108","FALSE"
-"ARE021","ARE021007","Giza","Kerdasa",2,"2115","FALSE"
-"ARE021","ARE021008","Giza","Al Hawamdeya",2,"2110","FALSE"
-"ARE021","ARE021009","Giza","Abu Alnomros",2,"2109","FALSE"
-"ARE021","ARE021010","Giza","Atfih",2,"2114","FALSE"
-"ARE021","ARE021011","Giza","Albadrasheen",2,"2111","FALSE"
-"ARE021","ARE021012","Giza","Al Saf",2,"2113","FALSE"
-"ARE021","ARE021013","Giza","Al Ayat",2,"2112","FALSE"
-"ARE021","ARE021014","Giza","Awseem",2,"2116","FALSE"
-"ARE021","ARE021015","Giza","Bahariya Oasis",2,"2122","FALSE"
-"ARE021","ARE021016","Giza","South Giza",2,NA,"TRUE"
-"ARE021","ARE021017","Giza","Al Warraq",2,"2117","FALSE"
-"ARE021","ARE021018","Giza","Alomaraneyah",2,"2106","FALSE"
-"ARE022","NULL","Bani Souwaif","NULL",22,NA,"TRUE"
-"ARE022","ARE022001","Bani Souwaif","Alwasty",22,"2208","FALSE"
-"ARE022","ARE022002","Bani Souwaif","Ahnasia",22,"2204","FALSE"
-"ARE022","ARE022003","Bani Souwaif","Al Fashn",22,"2207","FALSE"
-"ARE022","ARE022004","Bani Souwaif","Baba",22,"2205","FALSE"
-"ARE022","ARE022005","Bani Souwaif","Bani Souwaif",22,"2201|2202|2203","TRUE"
-"ARE022","ARE022007","Bani Souwaif","Samasta",22,"2206","FALSE"
-"ARE023","NULL","Fayoum","NULL",23,NA,"TRUE"
-"ARE023","ARE023001","Fayoum","Abshway",23,"2305","FALSE"
-"ARE023","ARE023002","Fayoum","Alfayoum",23,"2301|2302","TRUE"
-"ARE023","ARE023003","Fayoum","Atsa",23,"2306","FALSE"
-"ARE023","ARE023004","Fayoum","Snors",23,"2304","FALSE"
-"ARE024","NULL","Menia","NULL",24,NA,"TRUE"
-"ARE024","ARE024002","Menia","Al Adwa",24,"2415","FALSE"
-"ARE024","ARE024003","Menia","Al Menia",24,"2401|2402|2403|2405","TRUE"
-"ARE024","ARE024004","Menia","Beni Mazar",24,"2413","FALSE"
-"ARE024","ARE024006","Menia","Maghagha",24,"2414","FALSE"
-"ARE024","ARE024007","Menia","Malawi",24,"2408","FALSE"
-"ARE024","ARE024009","Menia","New Minya",24,"2404","FALSE"
-"ARE024","ARE024010","Menia","Samalut",24,"2410|2411","TRUE"
-"ARE025","NULL","Assiut","NULL",25,NA,"TRUE"
-"ARE025","ARE025001","Assiut","Abnoub",25,"2511","FALSE"
-"ARE025","ARE025003","Assiut","Al Badary",25,"2514","FALSE"
-"ARE025","ARE025007","Assiut","Assiut",25,"2501|2502|2503","TRUE"
-"ARE025","ARE025008","Assiut","Dayrout",25,"2510","FALSE"
-"ARE025","ARE025009","Assiut","Manfalot",25,"2508","FALSE"
-"ARE025","ARE025010","Assiut","New Assiut",25,"2515","FALSE"
-"ARE026","NULL","Sohag","NULL",26,NA,"TRUE"
-"ARE026","ARE026001","Sohag","Akhmeem",26,"2615","FALSE"
-"ARE026","ARE026004","Sohag","Al Mansha",26,"2609","FALSE"
-"ARE026","ARE026006","Sohag","Dar Al Salaam",26,"2614","FALSE"
-"ARE026","ARE026008","Sohag","Juhaynah",26,"2605","FALSE"
-"ARE026","ARE026010","Sohag","New Sohag",26,"2619","FALSE"
-"ARE026","ARE026012","Sohag","Sohag",26,"2601|2602|2603","TRUE"
-"ARE026","ARE026013","Sohag","Tahta",26,"2606|2607","TRUE"
-"ARE027","NULL","Qena","NULL",27,NA,"TRUE"
-"ARE027","ARE027001","Qena","Abo Tesht",27,"2707","FALSE"
-"ARE027","ARE027003","Qena","Armant",29,"2905","FALSE"
-"ARE027","ARE027004","Qena","Deshna",27,"2703","FALSE"
-"ARE027","ARE027006","Qena","Farshout",27,"2706","FALSE"
-"ARE027","ARE027007","Qena","Naga Hammadi",27,"2705","FALSE"
-"ARE027","ARE027009","Qena","New Qena",27,"2711","FALSE"
-"ARE027","ARE027011","Qena","Qena",27,"2701|2702|2703","TRUE"
-"ARE027","ARE027012","Qena","Quos",27,"2709","FALSE"
-"ARE028","NULL","Aswan","NULL",28,NA,"TRUE"
-"ARE028","ARE028001","Aswan","Abu Simbel",28,"2809","FALSE"
-"ARE028","ARE028003","Aswan","Aswan",28,"2801|2802|2803","TRUE"
-"ARE028","ARE028004","Aswan","Edfu",28,"2805","FALSE"
-"ARE028","ARE028005","Aswan","Kalabsha",28,NA,"TRUE"
-"ARE028","ARE028006","Aswan","Kom Ombo",28,"2806","FALSE"
-"ARE028","ARE028008","Aswan","New Aswan",28,"2804","FALSE"
-"ARE028","ARE028011","Aswan","Draw",28,"2808","FALSE"
-"ARE028","ARE028012","Aswan","Al Nouba",28,"2807","FALSE"
-"ARE029","NULL","Luxor","NULL",29,NA,"TRUE"
-"ARE029","ARE029002","Luxor","Luxor",29,"2901|2902","TRUE"
-"ARE031","NULL","The Red Sea","NULL",31,NA,"TRUE"
-"ARE031","ARE031001","The Red Sea","Al Kaseer",31,"3105","FALSE"
-"ARE031","ARE031002","The Red Sea","Al Shalatin",31,"3107","FALSE"
-"ARE031","ARE031003","The Red Sea","Gulf Of Sueiz",31,NA,"TRUE"
-"ARE031","ARE031004","The Red Sea","Hurghada",31,"3101|3102","TRUE"
-"ARE031","ARE031005","The Red Sea","Marsa Alam",31,"3106","FALSE"
-"ARE031","ARE031006","The Red Sea","Ras Ghareb",31,"3103","FALSE"
-"ARE031","ARE031007","The Red Sea","Safaga",31,"3104","FALSE"
-"ARE032","ARE032001","New Valley","Dakhla Oasis",32,"3205","FALSE"
-"ARE032","ARE032002","New Valley","Farafra Oasis",32,"3204","FALSE"
-"ARE032","ARE032003","New Valley","Kharga Oasis",32,"3201","FALSE"
-"ARE032","ARE032004","New Valley","Paris Oasis",32,"3202","FALSE"
-"ARE033","NULL","Matrouh","NULL",33,NA,"TRUE"
-"ARE033","ARE033001","Matrouh","Al Dabaa",33,"3305","FALSE"
-"ARE033","ARE033002","Matrouh","Al Hammam",33,"3308","FALSE"
-"ARE033","ARE033004","Matrouh","Al Salloum",33,"3304","FALSE"
-"ARE033","ARE033005","Matrouh","Alalameen",33,"3306","FALSE"
-"ARE033","ARE033006","Matrouh","Mersa Matrouh",33,"3301","FALSE"
-"ARE033","ARE033007","Matrouh","Sidi Barrani",33,"3303","FALSE"
-"ARE033","ARE033008","Matrouh","Siwa Oasis",33,"3309","FALSE"
-"ARE033","ARE033009","Matrouh","The North Coast",33,"3310","FALSE"
-"ARE034","NULL","North Sinai","NULL",34,NA,"TRUE"
-"ARE034","ARE034001","North Sinai","Al Arish",34,"3401|3402|3403|3404","TRUE"
-"ARE034","ARE034003","North Sinai","Al Sheikh Zoweyd",34,"3410","FALSE"
-"ARE034","ARE034005","North Sinai","Nakhl",34,"3408","FALSE"
-"ARE035","NULL","South Sinai","NULL",35,NA,"TRUE"
-"ARE035","ARE035001","South Sinai","Abo Rdis",35,"3502","FALSE"
-"ARE035","ARE035002","South Sinai","Abo Znema",35,NA,"TRUE"
-"ARE035","ARE035004","South Sinai","Dahab",35,"3507","FALSE"
-"ARE035","ARE035005","South Sinai","Nuweiba",35,"3505","FALSE"
-"ARE035","ARE035006","South Sinai","Sharm El-sheikh",35,"3508|3509","TRUE"
-"ARE035","ARE035007","South Sinai","Sidr",35,"3503","FALSE"
-"ARE035","ARE035009","South Sinai","Taba",35,"3506","FALSE"
-"ARE035","ARE035010","South Sinai","Toor Sina",35,"3501","FALSE"
+LocationLevel2ID,ADM1,ADM2,Sec_Code
+ARE006001,Giza,6th October (1),2120
+ARE006002,Giza,6th October (2),2121
+ARE006006,Giza,Abu Elnumros,2109
+ARE006008,Giza,Al Ayaat,2112
+ARE006004,Giza,Al Hawamidiyya,2110
+ARE006010,Giza,Ausim,2116
+ARE006007,Giza,El Badrasheen,2111
+ARE006005,Giza,El Wahaat Elbaharia,2122
+ARE006011,Giza,Kerdasa,2115
+ARE006009,Giza,Mansheat Alqanater,2118
+ARE006003,Giza,Sheikh Zaid,2119
+ARE002002,Alexandria,Al Gomrok,212
+ARE002001,Alexandria,Al Montazah,9902
+ARE002004,Alexandria,Amreya,9903
+ARE002005,Alexandria,Attarin,207
+ARE002006,Alexandria,Bab Sharky,206
+ARE002007,Alexandria,Borg El Arab,9904
+ARE002003,Alexandria,El Laban,210
+ARE002008,Alexandria,Karmoz,209
+ARE002009,Alexandria,Mansheya,211
+ARE002010,Alexandria,Minet El Bassal,214
+ARE002011,Alexandria,Moharram Beyk,208
+ARE002012,Alexandria,Raml,9905
+ARE002013,Alexandria,Sidi Gaber,205
+ARE025001,Assiut,Abnoub,2511
+ARE025002,Assiut,Aboteeg,2505
+ARE025003,Assiut,Al Badary,2514
+ARE025004,Assiut,Al Ghanayem,2506
+ARE025005,Assiut,Alfath,2512
+ARE025006,Assiut,Alqusiya,2509
+ARE025007,Assiut,Assiut,9918
+ARE025008,Assiut,Dayrout,2510
+ARE025009,Assiut,Manfalot,2508
+ARE025010,Assiut,New Assiut,2515
+ARE025011,Assiut,Sadfa,2507
+ARE025012,Assiut,Sahel Selim,2513
+ARE028001,Aswan,Abu Simbel,2809
+ARE028012,Aswan,Al Nouba,2807
+ARE028010,Aswan,Al Radiseya,2805
+ARE028002,Aswan,Al Sabaiya,2805
+ARE028014,Aswan,Albasileya,2805
+ARE028003,Aswan,Aswan,9920
+ARE028013,Aswan,Bahary,2808
+ARE028011,Aswan,Draw,2808
+ARE028004,Aswan,Edfu,2805
+ARE028005,Aswan,Kalabsha,2807
+ARE028006,Aswan,Kom Ombo,2806
+ARE028007,Aswan,Nasr,2807
+ARE028008,Aswan,New Aswan,2804
+ARE028009,Aswan,Toshka,2810
+ARE022002,Beni Suef,Ahnasia,2204
+ARE022003,Beni Suef,Al Fashn,2207
+ARE022001,Beni Suef,Alwasty,2208
+ARE022004,Beni Suef,Baba,2205
+ARE022005,Beni Suef,Bani Souwaif,9915
+ARE022006,Beni Suef,Nasser,2209
+ARE022007,Beni Suef,Samasta,2206
+ARE001009,Cairo,Abdeen,116
+ARE001030,Cairo,Ain Shams,134
+ARE001013,Cairo,Al Azbakkiya,120
+ARE001035,Cairo,Al Bassatin,107
+ARE001014,Cairo,Al Darb Al Ahmar,114
+ARE001015,Cairo,Al Gammaliya,122
+ARE001008,Cairo,Al Khalifa,111
+ARE001036,Cairo,Al Marg,135
+ARE001025,Cairo,Al Mataria,133
+ARE001010,Cairo,Al Moski,115
+ARE001029,Cairo,Al Nuzha,138
+ARE001021,Cairo,Al Sahel,129
+ARE001032,Cairo,Al Salam,9901
+ARE001007,Cairo,Al Sayyida Zainab,110
+ARE001018,Cairo,Al Sharabeya,126
+ARE001022,Cairo,Al Wayli,124
+ARE001017,Cairo,Al Zahir,123
+ARE001033,Cairo,Al Zamalek,118
+ARE001031,Cairo,Al Zawyah Elhamra,130
+ARE001024,Cairo,Al Zayton,132
+ARE001016,Cairo,Bab Ash Shariyah,121
+ARE001012,Cairo,Bulaq,119
+ARE001026,Cairo,East Nacr City,141
+ARE001023,Cairo,Hadayk Al Koba,125
+ARE001028,Cairo,Heliopolis,139
+ARE001037,Cairo,Helwan,102
+ARE001038,Cairo,Maadi,106
+ARE001034,Cairo,Manshiet Nasser,113
+ARE001006,Cairo,Old Cairo,109
+ARE001011,Cairo,Qasr Al-nil,117
+ARE001020,Cairo,Rod El Farag,128
+ARE001019,Cairo,Shubra,127
+ARE001027,Cairo,West Nacr City,140
+ARE012001,Dakahlia,Aga,1204
+ARE012002,Dakahlia,Al Gamaleya,1215
+ARE012003,Dakahlia,Al Kordi,1213
+ARE012004,Dakahlia,Al Mansoura,9908
+ARE012005,Dakahlia,Al Manzala,1216
+ARE012006,Dakahlia,Al Matareya,1217
+ARE012007,Dakahlia,Al Sinbillawain,1207
+ARE012008,Dakahlia,Bani Obeid,1209
+ARE012009,Dakahlia,Belqas,1222
+ARE012010,Dakahlia,Dikirnis,1211
+ARE012011,Dakahlia,Gamasa,1219
+ARE012012,Dakahlia,Meniat El Nasr,1212
+ARE012013,Dakahlia,Mit Ghamr,1205
+ARE012014,Dakahlia,Mitt Slsell,1214
+ARE012015,Dakahlia,Sherbin,1218
+ARE012016,Dakahlia,Talkha,1220
+ARE012017,Dakahlia,Tammy Alamded,1208
+ARE011001,Damietta,Al Rawda,1104
+ARE011002,Damietta,Al Zarqa,1105
+ARE011003,Damietta,El Sroo,1105
+ARE011004,Damietta,Fareskour,1104
+ARE011005,Damietta,Izbet Elbarj,1103
+ARE011006,Damietta,Kafr Batikh,1107
+ARE011007,Damietta,Kafr Saad,1106
+ARE011008,Damietta,Meet Abou Ghaleb,1106
+ARE011009,Damietta,New Damietta,1108
+ARE011010,Damietta,Ras El Bar,1110
+ARE018001,Behera,Abouhoms,1809
+ARE018002,Behera,Abualmatamir,1804
+ARE018003,Behera,Aldelengat,1816
+ARE018004,Behera,Almahmudiya,1810
+ARE018005,Behera,Alrahmaniah,1811
+ARE018006,Behera,Badr,1815
+ARE018007,Behera,Damanhur,1801
+ARE018008,Behera,Edco,1807
+ARE018009,Behera,Housh Eissa,1803
+ARE018010,Behera,Itai Albarood,1813
+ARE018011,Behera,Kafr El Dawar,1805
+ARE018012,Behera,Kom Hamada,1814
+ARE018013,Behera,Rasheed,1808
+ARE018014,Behera,Shoubrakhit,1812
+ARE018015,Behera,Wadi Alnatrun,1817
+ARE023001,Fayoum,Abshway,2305
+ARE023002,Fayoum,Alfayoum,2301
+ARE023003,Fayoum,Atsa,2306
+ARE023004,Fayoum,Snors,2304
+ARE023005,Fayoum,Tamya,2303
+ARE023006,Fayoum,Youssef Al Sediq,2307
+ARE016001,Gharbia,Al Mahala Al Kobra,9912
+ARE016002,Gharbia,Alsanta,1604
+ARE016003,Gharbia,Basyoun,1612
+ARE016004,Gharbia,Kafr Alzayat,1613
+ARE016005,Gharbia,Qotour,1611
+ARE016006,Gharbia,Samanoud,1606
+ARE016007,Gharbia,Tanta,9913
+ARE016008,Gharbia,Zefta,1605
+ARE021009,Giza,Abu Alnomros,2109
+ARE021002,Giza,Al Agouzah,2102
+ARE021013,Giza,Al Ayat,2112
+ARE021003,Giza,Al Dukki,2103
+ARE021006,Giza,Al Haram,2108
+ARE021008,Giza,Al Hawamdeya,2110
+ARE021012,Giza,Al Saf,2113
+ARE021017,Giza,Al Warraq,2117
+ARE021011,Giza,Albadrasheen,2111
+ARE021018,Giza,Alomaraneyah,2106
+ARE021010,Giza,Atfih,2114
+ARE021014,Giza,Awseem,2116
+ARE021015,Giza,Bahariya Oasis,2122
+ARE021005,Giza,Bulaq Al Daqrur,2105
+ARE021001,Giza,Imbaba,2101
+ARE021007,Giza,Kerdasa,2115
+ARE021004,Giza,North Giza,2104
+ARE021016,Giza,South Giza,2104
+ARE005003,Cairo,15th Of May,104
+ARE005011,Cairo,Al Saaf,2113
+ARE005001,Cairo,Al Tibbin,101
+ARE005012,Cairo,Atfeeh,2114
+ARE005010,Cairo,Badr City,146
+ARE005009,Cairo,El-sherouk,145
+ARE005002,Cairo,Helwan,102
+ARE005004,Cairo,Maadi,106
+ARE005006,Cairo,New Cairo (1),143
+ARE005007,Cairo,New Cairo (2),144
+ARE005008,Cairo,New Cairo (3),145
+ARE005005,Cairo,Turra,105
+ARE019002,Ismailia,Abo Sweer Al Mahata,1908
+ARE019001,Ismailia,Al Ismailia,9914
+ARE019003,Ismailia,Altal Elkebir,1909
+ARE019004,Ismailia,El Qantara Gharb,1905
+ARE019005,Ismailia,El Qantara Shark,1906
+ARE019006,Ismailia,Fayed,1907
+ARE019007,Ismailia,New Alkasaseen,1910
+ARE015001,Kafr El-Shikh,Al Hamoul,1505
+ARE015002,Kafr El-Shikh,Alreyad,1504
+ARE015003,Kafr El-Shikh,Baltim,1508
+ARE015004,Kafr El-Shikh,Bella,1506
+ARE015005,Kafr El-Shikh,Desouk,1513
+ARE015006,Kafr El-Shikh,Fouh,1510
+ARE015007,Kafr El-Shikh,Kafr El Sheikh,9911
+ARE015008,Kafr El-Shikh,Motobas,1509
+ARE015009,Kafr El-Shikh,Qalin,1514
+ARE015010,Kafr El-Shikh,Sidi Salem,1511
+ARE029001,Luxor,Bayadeya,2901
+ARE029002,Luxor,Luxor,2901
+ARE029003,Luxor,Thebes,2903
+ARE033001,Matrouh,Al Dabaa,3305
+ARE033002,Matrouh,Al Hammam,3308
+ARE033003,Matrouh,Al Nagielah,3302
+ARE033004,Matrouh,Al Salloum,3304
+ARE033005,Matrouh,Alalameen,3306
+ARE033006,Matrouh,Mersa Matrouh,3301
+ARE033007,Matrouh,Sidi Barrani,3303
+ARE033008,Matrouh,Siwa Oasis,3309
+ARE033009,Matrouh,The North Coast,3310
+ARE024001,Menia,Abokerkas,2406
+ARE024002,Menia,Al Adwa,2415
+ARE024003,Menia,Al Menia,9916
+ARE024004,Menia,Beni Mazar,2413
+ARE024005,Menia,Dermowoas,2409
+ARE024006,Menia,Maghagha,2414
+ARE024007,Menia,Malawi,2408
+ARE024008,Menia,Matay,2412
+ARE024009,Menia,New Minya,2404
+ARE024010,Menia,Samalut,9917
+ARE017001,Menoufia,Al Shohadaa,1703
+ARE017002,Menoufia,Albagour,1707
+ARE017003,Menoufia,Alsadat,1712
+ARE017004,Menoufia,Ashmoun,1708
+ARE017005,Menoufia,Berket Alsabaa,1705
+ARE017006,Menoufia,Hay Sharq,1701
+ARE017007,Menoufia,Menouf,1711
+ARE017008,Menoufia,Quesna,1706
+ARE017009,Menoufia,Sers Alayyan,1709
+ARE017010,Menoufia,Shebin El Koum,1701
+ARE017011,Menoufia,Tala,1704
+ARE032001,New Valley,Dakhla Oasis,3205
+ARE032002,New Valley,Farafra Oasis,3204
+ARE032003,New Valley,Kharga Oasis,3201
+ARE032004,New Valley,Paris Oasis,3202
+ARE032005,New Valley,Sharq Alowaynat,3206
+ARE034001,North Sinai,Al Arish,9922
+ARE034002,North Sinai,Al Hasna,3407
+ARE034003,North Sinai,Al Sheikh Zoweyd,3410
+ARE034004,North Sinai,Bir Al-abed,3405
+ARE034005,North Sinai,Nakhl,3408
+ARE034006,North Sinai,Rafah,3411
+ARE003001,Port Said,Al Arab,302
+ARE003002,Port Said,Al Dawahy,304
+ARE003003,Port Said,Al Manakh,303
+ARE003004,Port Said,Al Manasra,306
+ARE003005,Port Said,East Portsaid,301
+ARE003006,Port Said,Mubark,311
+ARE003007,Port Said,Port Fouad,9906
+ARE003008,Port Said,Port Said Port,312
+ARE003009,Port Said,South Portsaid,9907
+ARE003010,Port Said,Zohour,305
+ARE014001,Kalyoubia,Al Obour,1416
+ARE014002,Kalyoubia,Al Qanatir Al -khayriyyah,1407
+ARE014003,Kalyoubia,Alkhankah,1414
+ARE014004,Kalyoubia,Banha,1403
+ARE014005,Kalyoubia,Kafr Shokr,1404
+ARE014007,Kalyoubia,Qaha,1406
+ARE014008,Kalyoubia,Qalyub,1408
+ARE014009,Kalyoubia,Shibin Al-qanater,1413
+ARE014006,Kalyoubia,Shubra Al Kaymah,9910
+ARE014010,Kalyoubia,Toukh,1405
+ARE027001,Qena,Abo Tesht,2707
+ARE027002,Qena,Alwakf,2704
+ARE027003,Qena,Armant,2905
+ARE027004,Qena,Deshna,2703
+ARE027005,Qena,Esna,2906
+ARE027006,Qena,Farshout,2706
+ARE027007,Qena,Naga Hammadi,2705
+ARE027008,Qena,Nakada,2710
+ARE027009,Qena,New Qena,2711
+ARE027010,Qena,Qeft,2709
+ARE027011,Qena,Qena,2701
+ARE027012,Qena,Quos,2709
+ARE013003,Sharkia, al Qanayat,1304
+ARE013002,Sharkia,Abouhmadd,1310
+ARE013001,Sharkia,Abu Kabir,1314
+ARE013004,Sharkia,Al Husseiniya,1319
+ARE013005,Sharkia,Al Ibrahimeya,1313
+ARE013006,Sharkia,Al Qareen,1322
+ARE013007,Sharkia,Al Zagazig,9909
+ARE013008,Sharkia,Awlad Saqr,1316
+ARE013009,Sharkia,Belbais,1307
+ARE013010,Sharkia,Derb Negm,1312
+ARE013011,Sharkia,Faqous,1320
+ARE013012,Sharkia,Hehia,1311
+ARE013013,Sharkia,Kafr Saqr,1315
+ARE013014,Sharkia,Mashtool Alswouq,1306
+ARE013015,Sharkia,Minya Aalghemhh,1305
+ARE026001,Suhag,Akhmeem,2615
+ARE026002,Suhag,Al Balina,2613
+ARE026003,Suhag,Al Kawthar,2617
+ARE026004,Suhag,Al Mansha,2609
+ARE026005,Suhag,Al Maragha,2604
+ARE026006,Suhag,Dar Al Salaam,2614
+ARE026007,Suhag,Garga,9924
+ARE026008,Suhag,Juhaynah,2605
+ARE026009,Suhag,New Akhmim,2618
+ARE026010,Suhag,New Sohag,2619
+ARE026011,Suhag,Saqulta,2616
+ARE026012,Suhag,Sohag,9919
+ARE026013,Suhag,Tahta,2606
+ARE026014,Suhag,Tama,2608
+ARE035001,South Sinai,Abo Rdis,3502
+ARE035002,South Sinai,Abo Znema,3502
+ARE035003,South Sinai,Abosemh,NA
+ARE035004,South Sinai,Dahab,3507
+ARE035005,South Sinai,Nuweiba,3505
+ARE035006,South Sinai,Sharm El-sheikh,9923
+ARE035007,South Sinai,Sidr,3503
+ARE035008,South Sinai,St. Catherine,3504
+ARE035009,South Sinai,Taba,3506
+ARE035010,South Sinai,Toor Sina,3501
+ARE004002,Suez,Al Ganayen,405
+ARE004001,Suez,Al Rbaaan,402
+ARE004003,Suez,Ataka,403
+ARE004004,Suez,Faisal,404
+ARE004005,Suez,Suez,401
+ARE004006,Suez,Suez Port,406
+ARE031001,Red Sea,Al Kaseer,3105
+ARE031002,Red Sea,Al Shalatin,3107
+ARE031003,Red Sea,Gulf Of Sueiz,NA
+ARE031004,Red Sea,Hurghada,9921
+ARE031005,Red Sea,Marsa Alam,3106
+ARE031006,Red Sea,Ras Ghareb,3103
+ARE031007,Red Sea,Safaga,3104
