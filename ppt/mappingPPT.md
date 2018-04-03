@@ -92,9 +92,9 @@ Note: Changing boundaries of Governorates and Districts
 ## Why Map?
 
 1. Simplify Complex Pattern <!-- .element: class="fragment highlight-current-blue" -->
-1. Gaining Better Insight
-1. Spatial Analysis
-1. Resource Allocation
+1. Gaining Better Insight <!-- .element: class="fragment highlight-current-blue" -->
+1. Spatial Analysis<!-- .element: class="fragment highlight-current-blue" -->
+1. Resource Allocation<!-- .element: class="fragment highlight-current-blue" -->
 
 Note: Data is beautiful, and geographic data is even more visual and pattern. Data now has a location component - integrating static and geo-spatial data in a dynamic map
 
