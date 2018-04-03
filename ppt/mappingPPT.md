@@ -9,7 +9,6 @@ Note: Presentation on community mapping exercise
 
 ---
 
-
 ## Background
 1. Initiatives <!-- .element: class="fragment highlight-current-blue" -->
 1. Available Resources <!-- .element: class="fragment highlight-current-blue" -->
@@ -44,6 +43,11 @@ Note: Parallel initiatives in PI, CBP and ODM. Data gathering with help TdH.
 ---
 
 ## Available Resources
+1. ODM <!-- .element: class="fragment highlight-current-blue" -->
+1. Units <!-- .element: class="fragment highlight-current-blue" -->
+1. HDX, CAPMAS <!-- .element: class="fragment highlight-current-blue" -->
+1. Partners <!-- .element: class="fragment highlight-current-blue" -->
+1. Internet <!-- .element: class="fragment highlight-current-blue" -->
 
 ----
 
@@ -57,11 +61,11 @@ Note: Parallel initiatives in PI, CBP and ODM. Data gathering with help TdH.
 ---
 
 ## Challenges
-1. Changed boundaries <!-- .element: class="fragment highlight-current-blue" -->
+1. Inconsistency <!-- .element: class="fragment highlight-current-blue" -->
+1. Inadequate <!-- .element: class="fragment highlight-current-blue" -->
+1. 
 
-
-
-Note: 
+Note: Changing boundaries of Governorates and Districts
 
 ----
 
@@ -84,4 +88,16 @@ Note:
 
 ---
 
+## Why Map?
+
+1. Simplify Complex Pattern <!-- .element: class="fragment highlight-current-blue" -->
+1. Gaining Better Insight
+1. Spatial Analysis
+1. Resource Allocation
+
+Note: Data is beautiful, and geographic data is even more visual and pattern. Data now has a location component - integrating static and geo-spatial data in a dynamic map
+
+----
+
+### DEMO
 
