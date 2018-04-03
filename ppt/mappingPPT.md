@@ -61,9 +61,10 @@ Note: Parallel initiatives in PI, CBP and ODM. Data gathering with help TdH.
 ---
 
 ## Challenges
-1. Inconsistency <!-- .element: class="fragment highlight-current-blue" -->
-1. Inadequate <!-- .element: class="fragment highlight-current-blue" -->
-1. 
+1. Inconsistant (map/code)<!-- .element: class="fragment highlight-current-blue" -->
+1. Inadequate (level of details)<!-- .element: class="fragment highlight-current-blue" -->
+1. Data Quality (bad/missing data)<!-- .element: class="fragment highlight-current-blue" -->
+1. Time consuming (cleaning/wraggling) <!-- .element: class="fragment highlight-current-blue" -->
 
 Note: Changing boundaries of Governorates and Districts
 
