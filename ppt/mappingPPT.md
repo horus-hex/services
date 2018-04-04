@@ -1,5 +1,5 @@
 
-# Pin it on Map  
+# Pin it on A Map  
 
 **UNHCR Egypt**
 
@@ -73,8 +73,8 @@ Note: Progres fundamental data resources. The more finer data, the more accurate
 ---
 
 ## Challenges
-1. Inconsistant (map/code)<!-- .element: class="fragment highlight-current-blue" -->
-1. Inadequate (level of details)<!-- .element: class="fragment highlight-current-blue" -->
+1. Inconsistancy (map/code)<!-- .element: class="fragment highlight-current-blue" -->
+1. Inadequacy (level of details)<!-- .element: class="fragment highlight-current-blue" -->
 1. Data Quality (bad/missing data)<!-- .element: class="fragment highlight-current-blue" -->
 1. Time consuming (cleaning/wraggling) <!-- .element: class="fragment highlight-current-blue" -->
 
